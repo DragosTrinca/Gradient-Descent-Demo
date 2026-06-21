@@ -1,4 +1,4 @@
-# Gradient Descent Demo
+# Simple Linear Regression
 
 ## Description
 Simple linear regression with gradient descent in Python, using NumPy for mathematical operations and Matplotlib to visualize data
